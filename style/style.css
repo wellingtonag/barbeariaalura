@@ -388,10 +388,12 @@ img ~ p {
 	.conteudo-beneficios {
 		width: auto;
 	}
-	.principal{
+
+	.principal {
 		width: auto;
 		margin: 0 2%;
 	}
+
 	h1 {
 		text-align: center;
 	}
@@ -405,7 +407,8 @@ img ~ p {
 		font-size: 90%;
 
 	}
-	nav a:hover{
+
+	nav a:hover {
 		background: none;
 	}
 
@@ -413,52 +416,60 @@ img ~ p {
 		width: 100%;
 		margin: 0 0px 10px 10px;
 	}
-	.mapa{
+
+	.mapa {
 		padding: 0;
 	}
+
 	.mapa-conteudo {
 		width: 95%;
 		margin: 0 2.5%;
 		box-shadow: none;
 	}
 
-	.mapa iframe{
+	.mapa iframe {
 		box-shadow: 3px 3px 5px 0 #000000;
 	}
-	.mapa iframe:hover{
-		transform:scale(1.03);
+
+	.mapa iframe:hover {
+		transform: scale(1.03);
 	}
-	
-	.video iframe{
+
+	.video iframe {
 		box-shadow: 3px 3px 5px 0 #000000;
-	
+
 	}
-	.video:hover{
-		transform:scale(1.03);
+
+	.video:hover {
+		transform: scale(1.03);
 	}
 
 	.video {
 		width: 95%;
-		margin: 2%;		
+		margin: 2%;
 	}
 
 	.imagem-beneficios {
 		width: 95%;
 		margin: 2%;
 	}
-	.mainform{
+
+	.mainform {
 		width: auto;
 		margin-left: 10px;
 	}
-	.produtos li{		
+
+	.produtos li {
 		display: grid;
 		box-sizing: content-box;
 		margin: 0 0 20px 20px;
 	}
-	.produtos li:hover{
+
+	.produtos li:hover {
 		transform: scale(1.05);
 	}
-	.send{
+
+	.send {
 		width: 50%;
 	}
 }
